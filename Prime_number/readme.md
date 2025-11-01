@@ -6,7 +6,7 @@
 > | *date*     | 2025-11-01                            |
 > | *java*     | V-21.0.8                              |
 
-<br>
+<br><br>
 
 Bu doküman, verilen bir sayının asal olup olmadığını kontrol eden iki farklı yöntemi karşılaştıran bir Java programını açıklamaktadır. Program, 0'dan 10 milyon'a kadar olan sayılar için her iki yöntemi de kullanarak sonuçları karşılaştırır ve herhangi bir uyuşmazlık durumunda bunu bildirir.
 
